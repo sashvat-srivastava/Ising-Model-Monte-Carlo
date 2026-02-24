@@ -27,7 +27,7 @@ The simulation is designed to be stress-tested across three distinct thermodynam
 
 ## Repository Structure
 * `main.py`: The core computational engine containing the Hamiltonian logic, toroidal neighbor mapping, and the Metropolis algorithm.
-* `Ising_Model_Report.pdf`: Comprehensive technical report detailing the statistical mechanics, partition function limitations, and multi-temperature output analysis.
+* `project-report.pdf`: Comprehensive technical report detailing the statistical mechanics, partition function limitations, and multi-temperature output analysis.
 
 ## Dependencies
 * Python 3.x
